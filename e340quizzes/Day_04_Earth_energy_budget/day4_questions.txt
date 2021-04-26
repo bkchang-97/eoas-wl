@@ -1,0 +1,483 @@
+
+--------------------
+When calculating the average albedo of a planet, is the albedo of all areas equally taken in to account or does the angle at which the sun's energy would hit certain latitudes also taken into account?
+--------------------
+
+
+--------------------
+why does the atmosphere not absorb any energy from the sun, yet absorbs it from the earth? I assume it is the wavelengths, but what physical properties of the sun/Earth cause them to have different emission spectra?
+--------------------
+
+
+--------------------
+In the readings, it never mentions that the earths orbit around the sun is not a perfect circle. Is this a factor when considering the amount of energy coming from the sun, given that the earth is not always the same distance away from the sun?
+--------------------
+
+
+--------------------
+Why is it that the lower atmosphere continues to radiate the same amount of energy, regardless of receiving more from earths surface? Why does this not increase the amount of energy radiated by the lower atmosphere?
+--------------------
+
+
+--------------------
+Isn't the solar constant of a planet also dependant on the size of the planet?
+--------------------
+
+
+--------------------
+I'm confused as to why question one says choose all of the possible answers but only allows one choice. I think that Earth's surface area exposed to the sun is important in determining solar constant (as it's in units of W/m^2), but distance between the planet to the sun is also important.
+
+I would like some clarification if this is correct. Thanks!
+--------------------
+
+
+--------------------
+Are all the layers of the atmosphere equally effective at reflecting radiation? Additionally, is the absorption of radiation increasing the temp of the atmosphere a significant factor in climate change or is it almost exclusively due to reflection?
+--------------------
+
+
+--------------------
+Since humans consume about 0.00008% of the solar energy falling on earth, I was wondering that what are some ways do earth captures solar energy and what are some ways that human could possibly increase our ability of capturing this energy?
+--------------------
+
+
+--------------------
+I still find the concept of albedo a little hard to understand and how it changes. 
+--------------------
+
+
+--------------------
+Can we know more what a photon is to visualize it better? I understand it is an abstract concept but right now, it sounds the same as radiation.
+--------------------
+
+
+--------------------
+How accurate do our numer answers need to be? And is there rules (such as at least two decimal places) that we should follow when answering these questions in the quizzes and up-coming tests?
+--------------------
+
+
+--------------------
+Why can't we develop a mechanism or technology to reduce such greenhouse gases and why/how do these gases not dissipate into space and collect at a certain altitude?
+--------------------
+
+
+--------------------
+What I found unclear was the equations, I thought I was following the equations properly and inputting the right values but the answers I was getting were not given on the MC questions. I do not have an UNDERSTANDING of the questions and what they are solving.
+--------------------
+
+
+--------------------
+Are similar calculations to the ones in the textbook used when taking into consideration habitable conditions on other planets?
+--------------------
+
+
+--------------------
+How can we turn dessert area back to a forest?
+--------------------
+
+
+--------------------
+What influences Earth's albedo?
+--------------------
+
+
+--------------------
+How is our atmosphere changing as a result of climate change? What changes are being made to the model to accommodate this?
+--------------------
+
+
+--------------------
+What causes albedo to change?
+--------------------
+
+
+--------------------
+I'm still a little confused about the greenhouse effect topic's atmosphere models. Specifically, how is it determined in the two-layer atmosphere, for example, that the Earth emits 714 W/m2 with two atmosphere layers?
+--------------------
+
+
+--------------------
+Seeing as the Earth's atmosphere is opaque to infrared radiation, does this mean that it would have an albedo of 0 (for IR) and would be a perfect blackbody to infrared radiation?
+--------------------
+
+
+--------------------
+Is it possible to obtain a worked out solution key to the problems requiring calculations? Also, it is difficult to do the calculation questions not being provided examples and explicit formulae, it would be extremely helpful if some in-class time could be dedicated to solving problems similar to quiz day 3 and 4.
+--------------------
+
+
+--------------------
+In the text, to find solar constant, we need the radius of the planet. Is that the same as the "size" of the planet as stated in question 1? Or is that referring to the volume.
+--------------------
+
+
+--------------------
+is the greenhouse effect just due to the layers of atmosphere?
+--------------------
+
+
+--------------------
+I didn't really understand the parts about the 1 layer model, 2 layer and so on. How can the the earth emit more energy than the sun radiates onto the earth. I understand the numbers and that they all cancel, but the energy from the atmosphere comes from the sun so how can that add onto the energy already hitting the earth?
+--------------------
+
+
+--------------------
+Going through the questions, initially, I had trouble with questions 2 and 3 but found the remainder of the questions to be straightforward. 
+--------------------
+
+
+--------------------
+Do we have to consider the ozone layer (i.e. whether it is tworn or normal) when calculating how much solar energy reaches the Earth?
+--------------------
+
+
+--------------------
+The concept that the atmosphere is completely transparent for the infrared rays but absorbs all the infrared rays is a little confusing because there are some other factors as well.
+--------------------
+
+
+--------------------
+I found out confusing how they say the earth only absorbs 238 W/m^2 on average, but since the earth has a lot of layers that it absorbs more? Or maybe I was confusing it with what the earth reflects back..
+--------------------
+
+
+--------------------
+if the albedo of Earth increases what happens to the temperature? 
+--------------------
+
+
+--------------------
+It was hard to understand how latitude affects the amount of solar energy absorbed.
+--------------------
+
+
+--------------------
+What impacts reflection the most on the earth's surface? ex) ice melting or cities vs. countryside
+--------------------
+
+
+--------------------
+the energy flow diagrams confuse me. if the sun is giving everything energy, how are things such as the atmosphere able to reflect double the energy they get from the sun?
+--------------------
+
+
+--------------------
+Does the thickness of the "layer" of atmosphere affect light absorption?
+--------------------
+
+
+--------------------
+From what I gathered from the reading, the greenhouse effect causes the earth to heat up because it's adding layers to the atmosphere, why do co2 emissions add layers to the atmosphere rather than just making existing layers thicker?
+--------------------
+
+
+--------------------
+I am just a little confused about the equation 4.4 in the reading. I understand its purpose but dont fully get the 150 value used in that equation. Is that just a ambiguous number used for the example in fig. 4.8 as the energy input from the sun, or is it an important number used for the equation?
+--------------------
+
+
+--------------------
+What is the significance of the average value of absorption (238 W/m2) if the amount of solar energy absorbed varies widely over the planet? 
+--------------------
+
+
+--------------------
+Is there a typo in the instruction on day 4? I see that you said read chapter for 'introduction of the climate change'. I went through the menu, I didn't see the chapter with that name. Later I realized that you mean chapter four instead of chapter for. 🤣 
+--------------------
+
+
+--------------------
+i think you mistype the "chapter four" into "chapter for" which makes me confused :)
+--------------------
+
+
+--------------------
+I have trouble understanding the concept of albedo
+--------------------
+
+
+--------------------
+How can earth have a atmospheric number of 0.65, what does it mean to be between two layers and how does that look in reality. what are the benefits to our atmosphere being 0.65 
+--------------------
+
+
+--------------------
+Is the energy reaching and leaving the Earth in equilibrium on the long term?
+--------------------
+
+
+--------------------
+I am having trouble following the uses of energy and power. Is there an easier way to distinguish the two other than using the units? 
+--------------------
+
+
+--------------------
+I'm a little confused with the whole concept of "n" layers, and what constitutes how many layers a planet has. Some more information on that would help my understanding of the material!
+--------------------
+
+
+--------------------
+Instead of the global average absorption, how much effect would the localized absorption have. 
+--------------------
+
+
+--------------------
+In the one-layer-model, how is it possible that energy from the sun is going to the earth but the atmosphere also has energy that is radiating down to the earth? Shouldn’t the energy from the sun be going to the atmosphere which then radiates down to the earth?
+--------------------
+
+
+--------------------
+Why does energy absorbed balance out with energy emitted on a planet?
+--------------------
+
+
+--------------------
+I found that question 2 and 3 were slightly confusing
+--------------------
+
+
+--------------------
+The readings in the textbook discussed one layer, two layers and n layers models. Which model most accurately describes the earth? 
+--------------------
+
+
+--------------------
+Will we have to memorize the solar constant for Earth or other planets?
+--------------------
+
+
+--------------------
+The earth's orbit makes it so that the Earth also rotates (sunlight incoming beam will strike higher latitudes and lower latitudes at times), is that considered when the explanation in figure 4.3 and 4.4 were made?
+
+If so, is the difference in beam strike considered negligible? 
+--------------------
+
+
+--------------------
+What if the atmosphere in other planet's don't allow all of the visible light to enter ?
+--------------------
+
+
+--------------------
+How do we calculate how much solar energy reaches the top of the Earth's atmosphere (before reflection occurs)?
+--------------------
+
+
+--------------------
+Will we learn more in depth physics related to the climate of the Earth than we have so far? I remember these topics being covered in first year, and I just am wondering whether there will be more physics to learn, or if more of the new information lies in chemistry and geology. Also, will we look at biological effects of climate change at all?
+--------------------
+
+
+--------------------
+how does the atmosphere absorb photons?
+--------------------
+
+
+--------------------
+I found question 4 from assignment 1 slightly confusing. The quiz seemed straightforward this time.
+--------------------
+
+
+--------------------
+How does the albedo of the planet vary between the latitudes and the tropics?
+--------------------
+
+
+--------------------
+How does the temperature of the atmosphere affect the greenhouse effect, using the Planck function?
+--------------------
+
+
+--------------------
+For the section it talks about “the amount of sunlight falling on the earth is equal to the amount that would have fallen into the shadow area if the earth were not there.”
+Does it take into account that the sunlight being reflected by atmosphere gases, water…etc., around the edge of the circle that hit the back side of the earth?
+--------------------
+
+
+--------------------
+When it says "how much energy should the Earth lose to maintain equilibrium," what E(in) value are we using as a reference?
+--------------------
+
+
+--------------------
+I understand that the n-layer model could be used to explain relative climates of the inner planets in the solar system, but what about the planets further away from the sun? 
+--------------------
+
+
+--------------------
+I found the multiple atmosphere, energy emittance/absorption rather confusing. I understood the equation, however the wording in the textbook was  bit of a mess. Could I have a more visual demonstration of how the equation could come into practice?
+--------------------
+
+
+--------------------
+For question 1 of the quiz, you say "click all that apply" but you can only select 1. I reckon b and d were both correct, but i could only select d.
+--------------------
+
+
+--------------------
+Will we need to know how to derive equations mentioned in ch 4? 
+--------------------
+
+
+--------------------
+if number of layers pretty much corresponds to the amount of greenhouse gas there is , how many "layers "does earth actually have ? 
+--------------------
+
+
+--------------------
+How is the albedo of a planet determined?
+--------------------
+
+
+--------------------
+I'm not entirely sure I understand how to do Question 2 from the quiz (it's not intuitive to me, especially with averaging out the surface area)
+--------------------
+
+
+--------------------
+Kinda confused about albedo.
+--------------------
+
+
+--------------------
+How can the n-layer model depict reality? How do we figure out a value for n?
+--------------------
+
+
+--------------------
+There were many equations for this reading and I was confused to which one we should know for the exam and what is expected for us to remember.
+--------------------
+
+
+--------------------
+I am just curious about the implications of this reading and the potential of using this knowledge to perhaps one day terraform a planet like Mars, or use the knowledge we have to strive towards getting the 'ideal' and maintaining the appropriate atmospheric composition to ensure ideal living conditions.
+--------------------
+
+
+--------------------
+I am confused with some of the terms.. energy radiating to space from versus energy loss? 
+--------------------
+
+
+--------------------
+How to calculate Ein and Eout for multiple layer atomosphere 
+--------------------
+
+
+--------------------
+For number 2, the reading says "Note that the πR2 terms cancel, so that the net amount of solar energy absorbed by the Earth per square meter of the Earth’s surface is not a function of the Earth’s size."
+
+Keeping the cancellation portion in mind, the answer generated would not be 340. Why is this the case? 
+--------------------
+
+
+--------------------
+Does the surface of the Earth only emit infrared photons to the atmosphere?
+--------------------
+
+
+--------------------
+I don't quite understand the layer models.
+--------------------
+
+
+--------------------
+How much energy does the ozone layer stops?
+--------------------
+
+
+--------------------
+Why would the solar constant not be related to the size of the planet? If the earth was larger would it not have more surface are exposed to absorb more radiation? or in that situation would it then have to be located farther from the sun due to gravitational strength? 
+
+Also would it be possible to have our quiz mark appear after completion so that we can see if we should attempt the quiz a second time. don't show the questions we got wrong but just our overall grade?
+--------------------
+
+
+--------------------
+How are atmospheres developed, when do they develop, and what factors influence whether a planet has a strong atmosphere?
+--------------------
+
+
+--------------------
+I'm confused about Q2 on the quiz. Isn't is just the solar constant? Isn't it already averaged out over earth's area?
+
+ 
+
+Also why can't I see my grade? I'd like to know if I got questions wrong so I can learn from my mistakes instead of blindly making them. Thanks
+--------------------
+
+
+--------------------
+can we go over the calculations for solar constant?
+--------------------
+
+
+--------------------
+can we go over how to calculate solar constant
+--------------------
+
+
+--------------------
+Could we go over this question in class "How much solar energy reaches the top of the Earth's atmosphere (before reflection occurs)?". I found it confusing. 
+--------------------
+
+
+--------------------
+I was confused about the equilibrium which mentioned in question 4.
+--------------------
+
+
+--------------------
+unsure about the ways to calculate the solar constant 
+--------------------
+
+
+--------------------
+How do you know when to use which formula?
+--------------------
+
+
+--------------------
+Arithmetic is confusing for the chapter about calculating energy and average power.
+--------------------
+
+
+--------------------
+How do the models change when accounting for transmissivity also?
+--------------------
+
+
+--------------------
+How do the atmosphere layers affect each other and what can be done about earths atmosphere as it is a main concern for the climate
+--------------------
+
+
+--------------------
+The textbook showed that solar constant is related to the surface area of the sphere, and solar constant is a function of how far the planet is from the sun. So I think solar constant is related to both size of sphere and the distance. But in this quiz, I could only chose one option.
+--------------------
+
+
+--------------------
+When calculating the amount of W/m^2 from the surface of earth, how many atmosphere layers are we suppose to take into account?
+--------------------
+
+
+--------------------
+I'm confused with the concept of equilibrium of radiation coming in to the planet and leaving the planet when involving albedo.
+--------------------
+
+
+--------------------
+Could the equilibrium in energy between the planet and the atmosphere ever be disrupted? If it can what would have to happen and would happen? 
+--------------------
+
+
+--------------------
+N/a for this week 
+--------------------
+
+
+--------------------
+Some of the wording confused me at first between Dessler and the questions of the quiz. Going over the equations and explaining them in detail again would be helpful.
+--------------------
+
