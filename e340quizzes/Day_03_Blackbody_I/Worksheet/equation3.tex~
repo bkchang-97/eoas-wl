@@ -1,0 +1,16 @@
+\documentclass[10pt]{article}
+\usepackage[usenames]{color} %used for font color
+\usepackage{amssymb} %maths
+\usepackage{amsmath} %maths
+\usepackage[utf8]{inputenc} %useful to type directly diacritic characters
+\begin{document}
+\begin{equation} \tag{3}
+\begin{split}
+0&=I_{emit_R} - \epsilon \sigma T^4  - (1-abs)I_{emit_R}\\
+0 &= \sigma T^4 - \epsilon \sigma T^4  - (1-abs)\sigma T^4 \\
+0 &= 1 - \epsilon - (1 - abs) \\
+0 &= - \epsilon + abs \\
+\epsilon &= abs
+\end{split}
+\end{equation}
+\end{document}

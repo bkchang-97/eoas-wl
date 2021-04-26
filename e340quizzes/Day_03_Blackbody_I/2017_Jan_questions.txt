@@ -1,0 +1,251 @@
+For the Day3Reading file, I found it hard to follow the section about emissivity and what having an emissivity of 1 means (esp Q2). If a blackbody can "absorb/emit radiation at all wavenumbers" but also have an absorptivity =1, how can it emit radiation? Wouldn't that mean reflectivity & transmissivity are 0? Or does this just mean that since all energy is absorbed, all this energy must be emitted (albeit at a different wavenumber)?
+
+
+Also, I was just wondering why all the readings are posted on Dropbox. I seem to be having more issues with slowdown using that instead of keeping everything on Connect.
+
+Are there any real life examples of black bodies and grey bodies?
+
+How do we determine the units for the area underneath a given curve?
+
+Do we have to memorize the formula for the calculations? PDF file for calculations were little bit hard for me.
+
+What makes water such a good blackbody?
+
+Does wave length has a range?
+
+If a wall has a transmissivity of 0.1 and emissivity of 0.6 and is shined upon by a 100 W m-2 light, then wouldn't the 0.6 emissivity be based on the 90W m-2 remaining after the 10W m-2 have passed through? 
+
+Thus reflected is not 60 W m-2 but 90*0.6 W m-2.
+
+I found the Planck’s function very confusing. I understood that taking the integral of the function would yield the Stefan-Boltzmann equation, but I don’t understand the different components of the function. I found some of the terms slightly confusing, especially emissivity, and what it means when it is referred to as low or high.
+
+How exactly does temperature correlate to internal energy?
+
+Which greenhouse gases, if any, can absorb and emit all wavenumbers of electromagnetic radiation?
+
+I was a little confused about how to determine the temperature of the blackbody from the planck function diagram. How exactly do you do it? Would you be able to demonstrate it in class? I'm not sure if I got it right. 
+
+Does intensity is involved in the rediation, as i know, the intensity can effect the enregy.
+
+How does emissivity (like in Q.5) affect absorption, reflection and transmission?
+
+I found it difficult to reason for question 3, although I simply looked for the area under the graph. I also wish to understand why emissivity= absorbance.
+
+There is also a lot of terminology (Io, Abs,broadband radiation)  that I need to remember which confuses my understanding of the material
+
+In the slides on emissivity, what does it mean when it says emissivity is NOT a function of temperature?
+
+Reading was comprehendable and concepts were straight forward.
+
+Why is liquid water considered to be almost a perfect black body?
+
+Is the emission and absorption of black bodies equal to 1?  As stated by kirchoff's law, I dont understand how the absorbed could equal to the emission.
+
+How is the value of Sigma derived to 5.66e-8?
+
+When the oven heats up do the coils also heat up the turkey?
+
+This is a question concerning the worksheet that we worked on last class (January 5). I was wondering if (for the last two questions containing graphs representing inflow, outflow, and volume) there was any way to determine the exact rates or volumes from the information provided? It seemed as if in class we were more concerned with the shape of the graphs and estimated where the points on the graphs might have been instead of determined exact points.
+(The pre-class assignment included anything we had covered in class in its criteria for a question, but if this is supposed to be exclusive to these pre-class readings/assignments, another question I have is what are some examples of blackbodies? I know the readings said that liquid water could be a blackbody, but are there any other examples? Most of what I can think of seem to be greybodies.)
+Thank you!
+
+I don't understand what blackbodies are. Will blackbody objects be black in colour? Also the summary says liquid water is a perfect blackbody, but I thought water reflects some wavelengths of light?
+
+Why use wave number a cm instead of wavelength and nanometers?
+
+do we always assume that absorptivity and emissivity are identical?why believe inthis?
+
+I am a little confused about the difference between using n versus delta n in calculating the energy emited. 
+
+Is there any black body in real world?
+
+What exactly is flux / irradiance? Just energy?
+
+In cities, is it possible to change the emissivity of roof panels to reflect more of the incoming radiation, lowering overal heat in major urban centers and lower air condition costs?
+
+How can we use the plank function to characterize a greenhousegas ?
+
+What are the values of emissivity and transmissivity that would mke a gas very effective as greenhouse effect gas ?
+
+  When a light hit an object, can there be no transmissivity? 
+Must energy emitted ALWAYS equal energy absorbed by an object?
+
+For question 5: can it be assumed that emmision = reflection? That is what I used to answer the question because they both energy to leave the object (not be transmitted or absorbed). If not, how could this question be answered?
+
+How do alternate light sources (LED and more efficient lightbulbs) work?
+
+How does black body radiation relate to climate change?
+
+Could you clarify the use of Planck's function please and how integrating it gives you the irradiance. Also what exactly is irradiance (some real world examples would really help)?
+
+I know we are supposed to know how to estimate under a curve from 1st year math, but I am not sure I grasp the concept of it (using left and right riemann sum). I would hope the professors can go over 1 example on how to do it as a reminder. What I also don't understand is why longer wavelength radiation (microwaves) heat up food faster than shorter wavelengths in the example brought up in the textbook. 
+
+Are we supposed to eyeball the area under the Planck function diagram for figuring out the irradiative flux emitted? (Question 3).
+
+
+
+Are we expected to remember every equation and coefficient or will we be allowed a formula sheet or a cheat sheet for the exams?
+
+
+How do you calculate exactly the percentage of black body reflectivity between a wave number band?
+
+Could you explain modes?
+
+How is flux different from power?
+
+how does black-radiation equation affect our life?
+
+What makes a ice have such high albedo (http://www.climate-policy-watcher.org/snow/snow-albedo.html), which is a another word for reflectivity, at wavelengths below ultraviolet? (crystal structure, maybe)
+
+This is what could allow snow accumulation to lead snowball earths.
+
+Why can low frequency electromagnetic radiation such as radio waves and low frequency sound penetrate walls?
+
+How can the plank function be determined without a graph.
+
+Through the readings is sounds like blackbodies and grey bodies radiation is a natural occurance, so how does this contribute to climate change?
+
+How does understanding/using Blackbodies contribute to the study of climate change, or more specifically, Global Warming?
+
+kind of unclear about wavelength. wave number relate to the absorption.
+
+Why does electromagnetic reflection occur primarily at sharp changes in density?
+
+I was a little confused about question #3. I think I was unsure how to go about this question because it asked for the irradiative flux. I assumed it was what the spectum did not absorb, that is the 1 - the area under the curve. The answer I got didn't seem to match one of the answers given though which made me slightly confused.
+
+If a shiny mirror has 0 emissivity, and reflects 100%, shouldn't something with 0.6 emissivity reflect 40%?
+
+As a student with minimal physics background (and who was just registered into the course this morning), I found it quite hard to understand the rationale and theory of the formulas. Hopefully tomorrow's lecture will explain this.
+
+Why would liquid water and snow be considered as almost perfect blackbodies (cosidered that they can reflect a significant amount of EM waves)? 
+
+I had a hard time figuring out question 3, I wasn't sure if we are supposed to 'eyeball' the answer or use equations, but I didn't know which equations to use. 
+
+How can I better conceptualize the unit (Watts per meter squared per inverse centimeter) as I am struggling to understand what this actually represents?
+
+Question three didn't have the diagram that the question asked about. I also just had some trouble finding out how you got those answers.
+
+I'm still puzzled by the derivation and application of the Planck function to determine the temperature (i.e. infrared thermometers). I can estimate the temperature by looking at the provided graphs, but the actual math preplexes me. 
+
+Please go over 'Planck's Equation during the lecture. It is not very clearly explained in the pre-class slides. Is there a specific formula that we have to use, or is it just a theory? 
+
+How is the absorptivity of an object equal to the emissivity of the same object?
+
+How to find Iabs and I trans when it is not a black body (a is not equal to 0)
+
+Does E=abs in both , black/grey bodies as well as gases?
+
+why the sum of absorptivity, transmissivity and reflectivity is equal to 1? 
+
+Why must the emissivity and absorptivity of an object be the same?
+
+why absorptivity equals to  emissivity?
+
+What is it about liquid water that makes it an "almost perfect black body"?
+
+I found question three confusing as I was difficulty determining the range of irradiative flux. I was unsure as to whether I had to use an equation or just estimate a range by looking at the graph, which was confusing given the units. 
+
+Unsure of the difference between emissivity and emission.
+
+Why is emissivity and absorptivity of an object identical? 
+
+Is there any energy consumption during the process of absorptivity and emissivity. If so, why does the absorptivity must be equal to the emissivity?
+
+Using the Planck function diagram, how do you best estimate the irradiative flux of a wave-number band like in q#3? why are blackbodies helpful in relation to climate change?
+
+None at the moment. 
+
+Why is it that water acts the most similarly to a blackbody and is this the closest thing to being a real blackbody?
+
+Just felt like it was kinda hard to understand the general idea of black body radiation. Especially why this whole concept is important to what we are learning.
+
+How does changes in density effect the amount of light reflected? i.e. going from air to water
+
+
+What is the blackbody of stars like?
+
+For the Wien’s displacement law, is 3000/T exact or just an approximation? 3000 has only one significant figure, so I was wondering how precise it was.  
+
+
+Can an object be manipulated to change its emissivity and transmissivity by large amounts like increasing or decreasing by .3?
+
+Emissivity is a ratio of the energy emitted from a body, which is the same thing as abosorption or reflection of incoming energy?
+
+When we calculated value the flux, why the temperature unit is Kelvin instead of Celsius?
+
+What causes some photons to be refelcted and others emitted?
+
+What exactly is flux? I understand the equation, but I'm having trouble thinking about it conceptually. 
+
+I didn't understand how the energy balance equation Is derived 
+
+What is the difference of simply emission and irradicative flux emission?
+
+What is the average albedo of Earth's surface?
+
+
+Also a small note, it would be neat if the answer options in the actual quiz would have letters next to them ( a. b. c. d. e.), just like in the Pre-Class assignment document.
+
+When it's a hot, sunny day it's very easy to feel your skin getting warmer from absorbing the photons through the transfer of energy.  So during colder days of winter can you not feel this because it's cold (duh) but also because in your body system's energy balance you are exerting more energy to stay warm (energy out) than photons hitting you coming from the sun (energy in)?
+
+How does the Earth's energy balance change when other factors are introduced (i.e. clouds)? 
+
+Do we need to know the Planck function? I don't quite understand it
+
+Is there a fixed amount of radiation off the Earth or does it vary? Also, does the emissisivity of the Earth vary during seasons/different times of the year?
+
+If absoprtivity and emissivity are equal, then can the absoptivity be used in the place of emissivity to find the total flux in the original equation?
+
+I'm still confused as to why emitted energy is separated from the equation for the conservation of energy: what is the difference between incident radiation and emission?
+
+I was confused about question 2; is the question asking weather body A or B had a higher radiative flux?
+
+Is there an equation for Planck's function that we have to know? Or do we just have to know B(T,n)?
+
+I am not sure how to integration the stefan- boltzman equation.
+
+Why are we using both wavenumber and wavelength to describe essentially the same property of waves?
+
+I'm unclear as to how blackbodies appear black, but yet emit light. Could you explain this phenomenon in relation to the Sun and also an everyday object?
+
+The wording and naming of the radiation was confusing. For example , flux vs irradiated flux, emitting vs reflecting .
+
+I only read the pdf, so I was just wondering if it is recommended to read the textbook as well or would the information on the pdf suffice for exams?
+
+I would like clarification on "flux of radiation" and the function. The pre-reading states that it is also called irradiance and Planck function but these are all very different names and I would like to know if there are different concepts related to these names.
+
+Although a blackbody is theoretical, is there anything that is close enough to being a blackbody or is this an impossible concept?
+
+Why are we using upward and downward fluxes for the energy balance equation instead of energy in-out as in Dessler?
+
+I am wondering how we can calculate the estimate for question 3? I estimated the area under the curve by approximating about 2 squares between points 500-1000 and multiplied (0.1 by 500) *2 which would fall in the range between 75-100 
+
+What is the difference between emission and reflection ?
+
+Why do we only care about the absorption and emission of infrared radiation by blackbodies? An object heated to very high temperatures also emits visible light. What about that contribution to the emitted energy?
+
+Given that blackbody radiation is not continuous and is rather quantized, does irradiance with respect to climate change have any areas with implication to quantum mechanics?
+
+What is Kirchoff's Law and why is it true?
+
+How does the albedo get quantified for non-monolithic stars/planets? Is it the average albedo of the surface of a planet? If so, what about really slow rotating planets with pure reflection on one side and pure absorption on the other?
+
+After rereading the pre-readings, I still do not understand who absorption can be equal to emission.
+
+How do all these properties of radiation contribute to the atmosphere's temperature?
+
+How can we tell when the question is asking about I or sigmaT^4 when the units are Wm^-2
+
+I had a difficult time understanding how to read the Planck function graph... I don't get how to fing blackbofy flux... do I just multiply by the x axis to cancle out the cm? 
+
+I think I just need to clarify more how all the different equations we learned in these readings work together. 
+
+I also don't really get what I stands for... what does the overall wavelengths mean?
+
+I had a hard time understanding question 5.... I know I have to find Iref, but I don't know how to find it using emissivity 
+
+In what ways have we used our knowledge of radiation, transmission, and reflection to reduce climate change?
+
+How different is the readings from textbook by Dessler compared to Reading 2: Day 03 Black-body radiation?
+
+Also, I find the Planck function diagram very confusing. I need help to with questions like #4 in the pre-reading quiz.

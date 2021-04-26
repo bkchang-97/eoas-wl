@@ -1,0 +1,537 @@
+
+--------------------
+Perhaps I may have missed it, but how would one normally find the albedo value to calculate the reflected portion of the flux?  In the context of our studies/quizzes, is it normally given?
+--------------------
+
+
+--------------------
+Can we ever build a light bulb that can withstand the temperature of the sun
+--------------------
+
+
+--------------------
+Will answers to the worksheets in class be posted? 
+--------------------
+
+
+--------------------
+Is a black hole considered a "blackbody" that isn't theoretical?
+--------------------
+
+
+--------------------
+how to calculate emissivity?
+--------------------
+
+
+--------------------
+How can the two objects emit roughly the same amount of wavelengths?
+--------------------
+
+
+--------------------
+I am confused about how for gases the laws for transmittivity and reflectivy are different. 
+--------------------
+
+
+--------------------
+Struggled with how to work between W m^-2 and emissivity and how they are related in the formula.
+--------------------
+
+
+--------------------
+How do we measure absorbvity, emissivity and transitivity?
+--------------------
+
+
+--------------------
+Will we be required to memorize all the formulas or will they be provided in an exam situation?
+--------------------
+
+
+--------------------
+I'm not entirely sure how to estimate flux emitted based on the graph. I multiplied the wavenumber band by the change in energy output to get 75, but there's 2 answers with 75 in them in the quiz. I estimated based on the graph that it's 75-100 because the area under the 500-1000 range is greater than the 0-500 range but is there a mathematical way to do this? 
+--------------------
+
+
+--------------------
+what's the difference between a grey body and black body?
+--------------------
+
+
+--------------------
+Wave number is just the inverse of wavelength (lambda). How can we tell when is it better to use one over the other?
+--------------------
+
+
+--------------------
+I was quite confused about the concept of flux and how it is related to radiation
+--------------------
+
+
+--------------------
+I am super confused on how emissivity relates to transmission, absorption and reflection. Does an object need to emit what it absorbs? This is my current understanding, but I am really not confident in this. 
+
+ 
+
+Second question, what is the equation that you would use to integrate the stefan Boltzmann equation?
+--------------------
+
+
+--------------------
+Could we have some extra optional practice (with answers) to practice problems such as the ones in the quiz? It would be really helpful since I'm still trying to figure out how to set up the equations and relate them to one another.
+--------------------
+
+
+--------------------
+Can we go over the second question of the in-class activity we did on Tuesday? I am still finding that confusing.
+--------------------
+
+
+--------------------
+What are photons?
+--------------------
+
+
+--------------------
+For the quiz, it didn't show how much scores we get from the first attempt which I wouldn't know what possibly cause the problems after the readings.
+
+After the reading, I found it very interesting with the formula to find the emissivity. But I got quite confused with "greybody" and "black body". Also, estimating the irradiative flux emitted by looking at the graph took me a long time  to figure it out with reading both pre-reading and textbook reading.
+--------------------
+
+
+--------------------
+How is temperature related to epsilon?
+--------------------
+
+
+--------------------
+Can a math/calculus review assignment be offered to students for review?
+--------------------
+
+
+--------------------
+Whats the difference between emission and absorption? Found the reading to be very confusing with all the words it was using.
+--------------------
+
+
+--------------------
+How to calculate emission...something like question 1. Can we please do an example in class?
+--------------------
+
+
+--------------------
+For radiative flux, do we input the numbers with + or -? or do we add the + or - sign at the end?
+--------------------
+
+
+--------------------
+Are emissivity and absorption the same? It was kind of confusing as it says emissivity = absorption 
+--------------------
+
+
+--------------------
+Do we need to memorize all the equations for the midterms or final exams? Or will the equations be provided within the questions/exams?
+--------------------
+
+
+--------------------
+Everything seemed straightforward, just quite a lot of info to take in. 
+--------------------
+
+
+--------------------
+For number 3, do we have to take the integral using mathematics or can we just estimate the area underneath the curve? If integration, can we go over this in class?
+--------------------
+
+
+--------------------
+What determines the absorptivity of an object?
+--------------------
+
+
+--------------------
+why do black bodies have an emissivity of Ú = 1?
+--------------------
+
+
+--------------------
+I do not understand how water or ice are almost black bodies they seem they would have most light transmit through them
+--------------------
+
+
+--------------------
+Why must the broad band emissivity be identical to absorbvity? I still don’t understand what broadband emissivity is conceptually.
+--------------------
+
+
+--------------------
+why do black bodies have emmisivity of 1? How is it measured?
+--------------------
+
+
+--------------------
+I'm not sure how well we should know the Planck's function, also I can calculate emissivity but I don't understand it. 
+--------------------
+
+
+--------------------
+How much energy can a black body ever absorb?
+--------------------
+
+
+--------------------
+Is the effectiveness of greenhouse gases determined by their absorption? For instance is methane's absorption higher than other gases?
+--------------------
+
+
+--------------------
+How were black bodies discovered?
+
+ 
+--------------------
+
+
+--------------------
+Are black and white bodies completely theoretical and doesn't exist in real life, just like how we have absolute zero but it's impossible to reach?
+--------------------
+
+
+--------------------
+I did not quite understand how to read the curves of the Plank function.
+--------------------
+
+
+--------------------
+Generally confused about blackbodies. If a blackbody technically absorbs everything how can it also emit anything?
+--------------------
+
+
+--------------------
+What is Kirchoff's law and what relationship does it describe?
+
+ 
+--------------------
+
+
+--------------------
+Why is flux referred to as both Wm^-2(cm) as well as just Wm^-2?
+--------------------
+
+
+--------------------
+The Planck function reading was a little confusing until I solved the quiz question. Still a little unclear about the difference in the notes and Dessler about the function. Another that was a little confusing was the peak wavelength emission function. 
+--------------------
+
+
+--------------------
+Are Ú and ε interchangeable? They seem to both be used for broad band emissivity
+--------------------
+
+
+--------------------
+I was a little confused on the absorptivity, abs of an object, and how it related to emissivity, ε. I don't understand how Kirchoff concluded they are equal. It would be good to have more information regarding that.
+
+ 
+
+Besides that, there's a typo in the readings and took me a while to understand. The text was showing emissivity as Ú instead of ε!
+--------------------
+
+
+--------------------
+Can you please explain planks graph. 
+--------------------
+
+
+--------------------
+Had a very hard time with grey body/black body.
+--------------------
+
+
+--------------------
+I am not sure whether or not I read the graph and did the calculations properly for question 3. I multiplied the x and y axis at 500 and 1000 got the answer 100-125 but I am not sure if that is correct, because I feel like I should have taken an integral. I also want to clarify, is I the total flux being emitted per unit surface area? What would be the units for this? And B(T,n) is the blackbody flux, right? Can we do an example of how to interpret and calculate things from these Planck function graphs?
+--------------------
+
+
+--------------------
+Can we at least see the grade that we got for the quiz? We don't have to see the particular questions we got right or wrong. At least this way we can try ourselves to figure out what we did wrong. For one of the questions, I did not know whether the answer was a or c
+--------------------
+
+
+--------------------
+question two asked which one emits more, is this simply asking about flux? also I would like it if we could go into more detail about transmissivity and its relevance to climate, as it seemed to be only briefly touched on in the pre readings
+--------------------
+
+
+--------------------
+When we calculate irradiative flux from the plank function, how do we know what plank number to use? I understand that we multiple the wavenumber range by the plank function, but what do we put in our plank function?
+--------------------
+
+
+--------------------
+Is emissivity the same as reflection? I see it as emissivity is how much an object gives off and what we see and it is the reflected light that we actually perceive.
+--------------------
+
+
+--------------------
+The earth's atmosphere contains different chemical species such as nitrogen and oxygen. How would the different percentage composition in different altitudes and areas affect the way our atmosphere interact with the radiation from the sun? 
+
+ 
+--------------------
+
+
+--------------------
+I found the concept of flux unclear. The readings were not clear in explaining what it is.
+--------------------
+
+
+--------------------
+Into what amount of detail would we have to know calculation problems such as the Stefan-Boltzmann equation for a potential test? Are formulas and constants given?
+--------------------
+
+
+--------------------
+What do you need to look for in comparing systems to see what they emit?
+--------------------
+
+
+--------------------
+In the second reading, the grey body approximation equation was confusing in that in the equation the variable U is used but then in the next sentence the variable ε is used for emissivity. I assumed they were the same thing to answer the questions on the quiz but I am not sure if that was a correct assumption.
+--------------------
+
+
+--------------------
+Are absorption, transmissivity, albedo, and emmittance all directly related to colour?
+--------------------
+
+
+--------------------
+Is converting between the equations 
+
+abs + tr + ref = 1 
+
+and 
+
+the similar equation with (I initial) necessary? 
+--------------------
+
+
+--------------------
+when to use e=abs and who to use abs=1-tr ? 
+
+(for the quiz question if i use the second equation i can't get the right answer so instead i used the first one)
+--------------------
+
+
+--------------------
+What is the difference between the irradative influx and total irradiance? One is the area using the Stefan Boltzamann equation but where does irradative influx calculated. The units are confusing for me. 
+--------------------
+
+
+--------------------
+If nothing in the world is a perfect blackbody, why is this concept so important? 
+--------------------
+
+
+--------------------
+Why are there two different symbols for emissivity ([LaTeX: \varepsilon] (/equation_images/%255Cvarepsilon) and Ú)? 
+--------------------
+
+
+--------------------
+What materials in the earth absorbs the highest amount of radiation ?
+--------------------
+
+
+--------------------
+What are the assumptions needed to derive Planck's function and the Stefan-Boltzmann equation?
+--------------------
+
+
+--------------------
+I am confused about how black and grey bodies influence climate change.
+--------------------
+
+
+--------------------
+The textbook has been the most confusing source of information provided. I highly recommend either creating your own material or finding a more concise textbook.
+--------------------
+
+
+--------------------
+still unsure of using the stefan boltzmann equation to compare energy emitted 
+
+ 
+--------------------
+
+
+--------------------
+I am very confused what to do when you are given wavelength/wavenumber instead of epsilon. The equation we have is Flux=(epsilon)(constant)(Temp^4) but I don't understand how we can get the flux if only given temp and wavelength... I googled and found other equations but it is very confusing. 
+--------------------
+
+
+--------------------
+For some reason, the variables were unclear in the equation for emissivity. The notes used 2 different symbols. I was unable to use the notes and resorted to Wikipedia...
+--------------------
+
+
+--------------------
+It was difficult to conceptualize and understand the relationship between all of the equations learnt and when to use each one depending on which type of 'body' we are talking about. 
+--------------------
+
+
+--------------------
+Why do gases not reflect radiation?
+--------------------
+
+
+--------------------
+Under what condition the emissivity is 1 or infinitely approach to 1.
+--------------------
+
+
+--------------------
+there are too many formulas to memorize and it is hard to distinguish the usage of different formulas.
+--------------------
+
+
+--------------------
+what is the use of Kirchoff's law to explain the black body emission?
+--------------------
+
+
+--------------------
+I am confused about all the different equations in the readings and how to know when to use each one. It seems like many of them mean the same thing so it's hard to keep them all straight. Also, I am unsure if I did number 1 and 2 right on the quiz. I had trouble finding which equation to use.
+--------------------
+
+
+--------------------
+According to figure 1 in the pre reading pdf, (planck curves), as wave number becomes very large (meaning the wavelength becomes very small), the energy output decreases. However don't waves with smaller wavelengths have higher energy? For example X-rays are considered to be higher in energy than radio waves. 
+--------------------
+
+
+--------------------
+question 3 on the quiz confused me as I couldn't see an option that related to what I was getting from  the graph
+
+ 
+
+also the difference between emissivity and flux
+--------------------
+
+
+--------------------
+For question 3, I calculated for many times. And I still got the same answer but it still showed to be wrong.
+--------------------
+
+
+--------------------
+A bit confused about how to read the graph from Q3; how do we get from the values on the y-axis to the options given?
+
+ 
+--------------------
+
+
+--------------------
+Are we suppose to memorize all the equations and wavelength numbers or would they be given in a formula sheet?
+--------------------
+
+
+--------------------
+I would like to know more about the planck's equation? i would like more examples questions for it.
+--------------------
+
+
+--------------------
+Does transmissivity depend on colour too? ex) a white tshirt will reflect all visible light vs a black tshirt? Does sea ice vs. sea water have this same phenomenon?
+--------------------
+
+
+--------------------
+Will we have this survey for each pre-quiz?
+--------------------
+
+
+--------------------
+Does the Planck function curves show the similar pattern with the higher or lower temperature? 
+--------------------
+
+
+--------------------
+I'm confused when looking at the Planck constant diagram. How can one properly analyze it and how is the curve shaped the way it is in a mathematical sense?
+--------------------
+
+
+--------------------
+What equation can be used to describe what is going on in the graph on the quiz? What are the relationships between the variables in the graph? 
+--------------------
+
+
+--------------------
+Why are there 2 different symbols for emissivity-epsilon and U?
+--------------------
+
+
+--------------------
+I found reading the graphs (especially the one in the quiz) confusing as well as doing the calculation for that question. Do we multiply the energy output by the wavenumber?
+--------------------
+
+
+--------------------
+I am very confused with the difference between irradiative flux and energy output as well as the concept of the Planck function.
+--------------------
+
+
+--------------------
+Do black body's exist in real life or is it only theoretical?
+--------------------
+
+
+--------------------
+can we go over grey body radiation more in class? somewhat confused  
+--------------------
+
+
+--------------------
+The emission of grey bodies is I=U*sigma*T^4. in the paragraph below it and in the questions, we referred to "U" as "epsilon". Is it supposed to be epsilon instead of U?? 
+--------------------
+
+
+--------------------
+Why are the units for Energy output in the Planck Function graph (Figure 1) Wcm/m2 ? Where does the cm come from? I thought energy output = flux, but based on the units Wcm/m2 and W/m2 they are not the same. Additionally, in the text, the units for wavelength were discussed as microns, however, in the black-body radiation reading, wavelength is units of cm as it follows that the inverse of wavenumber is wavelength and the units for wavenumber is cm-1
+--------------------
+
+
+--------------------
+I don’t know the difference between session and reflection. And relation ship between Emissivity and abs..... confusing. 
+--------------------
+
+
+--------------------
+Do all gasses follow the rule that they don't reflect any radiation or are there exception? 
+--------------------
+
+
+--------------------
+I found the readings confusing because it was hard to translate equations and understand the relationships just from the text. 
+--------------------
+
+
+--------------------
+Why is it that emissivity and absorptivity of an object must be identical to one another where ε = abs? Is there any situation where ε does not equal abs?
+--------------------
+
+
+--------------------
+Is emissivity the same as how much energy an object absorbs?
+--------------------
+
+
+--------------------
+the part about the absorption, emission, and reflection is difficult to understand
+--------------------
+
+
+--------------------
+one thing i found unclear was reading the graph to calculate the flux, my range for my question was 100-125 W per meters squared inverse but then the answer was wrong so i decided to round down my answer, maybe i am misinterpreting the graph wrong but if we could clarify in class it would be great 
+--------------------
+

@@ -1,0 +1,17 @@
+name: jupytext
+channels:
+  - eoas_ubc
+  - conda-forge
+dependencies:
+  - python<3.9
+  - jupyter
+  - jupytext
+  - numpy
+  - pandas
+  - matplotlib
+  - conda-lock
+  - click
+  - scipy
+# conda-lock -f environment.yml -p linux-64
+# conda create --name jupytext --file conda-linux-64.lock
+  
