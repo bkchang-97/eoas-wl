@@ -1,0 +1,2 @@
+sphinx-rtd-theme
+canvasapi==2.0

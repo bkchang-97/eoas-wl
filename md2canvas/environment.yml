@@ -1,0 +1,21 @@
+name: md2canvas
+channels:
+  - eoas_ubc
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - markdown
+  - pip
+  - git
+  - click
+  - jupytext
+  - python-dateutil
+  - bs4
+  - pytest
+  - pytest-cov
+  - myst-parser
+  - conda-lock
+# conda-lock -f environment.yml -p linux-64
+# conda-lock -f environment.yml -p win-64
+# conda-lock -f environment.yml -p osx-64

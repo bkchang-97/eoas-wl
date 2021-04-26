@@ -1,0 +1,4 @@
+[console_scripts]
+anstrip = md2canvas.command:strip_answers
+md2canvas = md2canvas.command:md2canvas
+

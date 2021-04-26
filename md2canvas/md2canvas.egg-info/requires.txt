@@ -1,0 +1,10 @@
+markdown
+canvasapi
+click
+jupytext
+python-dateutil
+bs4
+sphinx-rtd-theme
+pytest
+pytest-cov
+myst-parser
